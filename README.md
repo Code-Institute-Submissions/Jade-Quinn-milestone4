@@ -1,11 +1,10 @@
-![Jade Quinn Design](/assets/images/lulu-loves-logo.png)
+![Boutique Bibi](/media/bibi-logo-black.png)
 
-# Jade Quinn Design
+# Boutique Bibi
 
 [View the live project here](https://jade-quinn.github.io/lulu-loves/)
 
-Lulu Loves... honest, cruelty-free, wallet friendly self care for teens. Turn your bathroom into your own personal spa.
-Handmade bath bombs and pamper products delivered to your door. Join the self care club!
+Boutique Bibi has been
  
 ## UX
 
